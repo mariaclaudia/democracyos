@@ -1,5 +1,5 @@
 {
-  "locale": "en",
+  "locale": "it",
   "protocol": "http",
   "warnHTTP": true,
   "host": "localhost",
@@ -11,7 +11,7 @@
   "signinUrl": "",
   "signupUrl": "",
   "settingsUrl": "",
-  "staff": [],
+  "staff": ["mariaclaudia.bodino@gmail.com"],
   "allowEmailAliases": true,
   "facebookSignin": false,
   "publicEmails": false,
@@ -140,6 +140,6 @@
     "uk",
     "zh_TW"
   ],
-  "enforceLocale": false,
+  "enforceLocale": true,
   "restrictForumCreation" : false
 }
